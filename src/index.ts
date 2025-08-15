@@ -1,5 +1,5 @@
-
-import { PrismaClient } from "@prisma/client/extension";
+//@ts-ignore
+import { PrismaClient } from "@prisma/client";
 import express from "express"
 
 const app = express();
